@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+    <string name="notification">Notification</string>
+    <string name="single_notification">Single Notification</string>
+    <string name="group_notification">Group Notification</string>
+    <string name="add_notification_group">Add notification Group</string>
+    <string name="replay_notification">Replay Notification</string>
+</resources>
